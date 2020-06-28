@@ -14,7 +14,7 @@ Now follow the steps given below:
 2. Git clone this repo
 
 ```
-git clone https://github.com/narenltk/Rasa_chatbot_narenltk.git
+git clone https://github.com/dwarakanathvarunkumar/Rasa.git
 ```
 
 3. Now change directory to the folder in which you have cloned this repo.
