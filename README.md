@@ -3,7 +3,11 @@ Rasa chatbot projects
 <p align="center">
   <img src="img/rasa.jpg">
 </p>
+
+
 ### If you need any help with installing Rasa, then click here...[Link](https://medium.com/@narenltk/rasa-chat-bot-installation-on-windows-10-21b4e8f16f5c)
+
+
 Before using this repo make sure to enable the virtual environment, so that you wouldn't mess with your other projects. 
 
 If in any case you wanna know how to create Virtual Environment, have a look into the blog here [Link](https://medium.com/@narenltk/why-do-we-need-a-virtual-environment-ec5f4cbb9dc0)
